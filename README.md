@@ -26,6 +26,9 @@ A simple and interactive **Number Guessing Game developed in C**.
 5. Continue guessing until you find the correct number.
 6. Try to guess the number in the minimum attempts!
 
+## 📸 Game Screenshot
+![Guess Number Game Output]
+(GuessNumberOutput.png)
 ## 💻 Sample Output
 
 ```text
