@@ -27,8 +27,7 @@ A simple and interactive **Number Guessing Game developed in C**.
 6. Try to guess the number in the minimum attempts!
 
 ## 📸 Game Screenshot
-![Guess Number Game Output]
-(GuessNumberOutput.png)
+![Guess Number Game Output](./GuessNumberOutput.png)
 ## 💻 Sample Output
 
 ```text
