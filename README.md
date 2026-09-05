@@ -28,6 +28,7 @@ A simple and interactive **Number Guessing Game developed in C**.
 
 ## 📸 Game Screenshot
 ![Guess Number Game Output](./GuessNumberOutput.png)
+
 ## 💻 Sample Output
 
 ```text
@@ -45,3 +46,25 @@ Enter your guess: 37
 Congratulations! You guessed the correct number.
 
 Number of Attempts: 3
+
+## Learning project
+
+This project helped me practice:
+Variables and data types
+Conditional statements
+Loops
+Functions
+Random number generation
+User input handling
+Basic game logic
+
+🚀 Future Improvements
+Add a leaderboard
+Add multiplayer mode
+Add a graphical user interface
+Store high scores in a file
+
+👩‍💻 Author
+Ishika
+GitHub: ishika30208-web⁠�
+
